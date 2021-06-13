@@ -1,7 +1,17 @@
+/* sebs shitty code 2012 real */
+
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
 body{
+	font-family: 'Poppins';
  background-color: #fffff;
 }
 
 brak{
 	margin: 4px;
+}
+
+
+.pfp{
+	width: 64;
 }
